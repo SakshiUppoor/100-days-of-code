@@ -17,7 +17,8 @@ The log of my #100DaysOfCode challenge. Started on 7th Sept, 2019.
 #### Today's Progress: 
 * Implemented User Login, Signup & Authentication
 * Learned how to connect to SQL Workbench
-* Learn to connect views
+* Learned to connect views
+<img src="https://i.imgur.com/y4VKmAF.jpg" width=500></img>
 
 #### Thoughts:  
 Need to scour the web for more resources. Think it would be better to learn everything from scratch. Will take a course for it.
