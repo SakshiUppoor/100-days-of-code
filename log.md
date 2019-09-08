@@ -6,7 +6,6 @@ The log of my #100DaysOfCode challenge. Started on 7th Sept, 2019.
 * [ ] Complete a course on UI/UX and Frontend
 * [ ] Learn how to make a Java application and make  an Event Management Sytem
 * [ ] Finish project on data structures
-* [ ] Complete a course on UI/UX and Frontend
 * [ ] Build a Portfolio Website
 * [ ] Solve competitive programming problems by DJ Codestars on Hackerrank every week
 
@@ -17,7 +16,7 @@ The log of my #100DaysOfCode challenge. Started on 7th Sept, 2019.
 
 #### Today's Progress: 
 * Learned efficient way to find prime numbers
-* Learned Fermat's Little Theorem to calculate power of ;arge numbers fast
+* Learned Fermat's Little Theorem to calculate power of large numbers fast
 
 #### Thoughts:  
 
