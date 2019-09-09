@@ -18,7 +18,7 @@ The log of my #100DaysOfCode challenge. Started on 7th Sept, 2019.
 * Implemented User Login, Signup & Authentication
 * Learned how to connect to SQL Workbench
 * Learned to connect views
-<img src="https://i.imgur.com/y4VKmAF.jpg" width=500></img>
+.<img src="https://i.imgur.com/y4VKmAF.jpg" width=500></img>
 
 #### Thoughts:  
 Need to scour the web for more resources. Think it would be better to learn everything from scratch. Will take a course for it.
@@ -36,7 +36,7 @@ Need to scour the web for more resources. Think it would be better to learn ever
 * Learned Fermat's Little Theorem to calculate power of large numbers fast
 
 #### Thoughts:  
-Solving CP questions after so long remind me why I loved doing them back in the break. Should really take time out of every week to attend the Codestars lectures or learn the topics thought on YouTube. The weekly practice questions on Hackerrank actually look promising. Lokking forward to next week.
+Solving CP questions after so long remind me why I loved doing them back in the break. Should really take time out of every week to attend the Codestars lectures or learn the topics thought on YouTube. The weekly practice questions on Hackerrank actually look promising. Looking forward to next week's questions.
 
 #### Link to work: 
 [Practice Questions on Hackerrank by Codestars](https://www.hackerrank.com/contests/practice-questions-1567579589/challenges)
