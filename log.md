@@ -20,9 +20,11 @@ The log of my #100DaysOfCode challenge. Started on 7th Sept, 2019.
 * Implemented double ended queue
 
 #### Thoughts:
+Spend two hours of debugging only to realize that I typed '/0' instead '\0'. :|
+Gotta be more mindful when I code. 
 
-#### Plan of action for tommorow: 
-* Research about data structure projects
+#### Goals for tomorrow: 
+* Research about data structure projects & applications
 * Build a website to apply UI & design knowledge I learned
 
 ### __Day 3: A bit of front-end & UI Design__
@@ -34,6 +36,7 @@ The log of my #100DaysOfCode challenge. Started on 7th Sept, 2019.
 * Researched about web design and buttons UI
 
 #### Thoughts:  
+Wish I could give more time to front-end dev. However, it's not the right time for it since term tests are demanding more time and once I'm done with them, I've got 2 mini-projects due. However, I'll try my best to take out 30 minutes everyday after tests for it and I'll spend my time on the train to research.
 
 #### Plan of action for tommorow: 
 * Probably learn and practice data structures as exams got pre-poned.
