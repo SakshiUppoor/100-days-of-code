@@ -11,6 +11,18 @@ The log of my #100DaysOfCode challenge. Started on 7th Sept, 2019.
 
 # __Round 1 - Log__
 
+### __Day 5: __
+#### Sep 12, 2019 - Thursday
+
+#### Today's Progress: 
+* 
+
+#### Thoughts:
+ 
+
+#### Goals for tomorrow: 
+*
+
 ### __Day 4: Practice, practice, practice__
 #### Sep 10, 2019 - Tuesday
 
