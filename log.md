@@ -3,11 +3,32 @@
 The log of my #100DaysOfCode challenge. Started on 7th Sept, 2019.
 
 ## Goals:
-* [ ] Complete a course on UI/UX and Frontend
-* [ ] Learn how to make a Java application and make  an Event Management Sytem
-* [ ] Finish project on data structures
+* [ ] Add proper documentation to all my repos
+* [ ] Explore machine learning, deep learning and NLP
+* [ ] Complete ReBag Project
 * [ ] Build a Portfolio Website
-* [ ] Solve competitive programming problems by DJ Codestars on Hackerrank every week
+* [ ] Complete the placement portal Unicode project
+* [ ] Upgrade ShopEasy project
+* [ ] Upgrade BitPharma blockchain project
+* [ ] Complete the Node.js course
+* [ ] Solve competitive programming problems
+* [ ] Complete a course on UI/UX and Frontend
+* [X] Learn how to make a Java application and make  an Ticket Booking System
+* [X] Finish project on data structures
+
+# __Round 2 - Log__
+
+### __Day 1: __
+#### Mar 31, 2020 - Tuesday
+
+#### Today's Progress: 
+* 
+
+#### Thoughts:
+ 
+
+#### Goals for tomorrow: 
+* 
 
 # __Round 1 - Log__
 
