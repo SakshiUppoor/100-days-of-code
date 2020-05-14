@@ -18,17 +18,20 @@ The log of my #100DaysOfCode challenge. Started on 7th Sept, 2019.
 
 # __Round 2 - Log__
 
-### __Day 1: __
-#### Mar 31, 2020 - Tuesday
+### __Week 1:__
+#### May 1-7, 2020
 
-#### Today's Progress: 
-* 
+* Finished 90% of ReBag project
+* Finished & deployed [Trana](https://www.trana.live)
 
-#### Thoughts:
- 
+### __Week 2:__
+#### May 8-14, 2020
 
-#### Goals for tomorrow: 
-* 
+* Started Daily UI challenge
+* Finished week 1/6 of UX course
+* Finished week 2/4 of Intro to TensorFlow course
+* Started week 1/4 of CNN course
+
 
 # __Round 1 - Log__
 
